@@ -1,0 +1,29 @@
+{
+  "name": "node-slack-web-pi",
+  "version": "0.0.1",
+  "description": "A simple way of sending messages to slack",
+  "keywords": [
+    "slack",
+    "api"
+  ],
+  "author": "Jim McAndrew <james_mcandrew@partner.nps.gov>",
+  "license": "Public Domain",
+  "contributors": [{
+    "name": "Jim McAndrew",
+    "email": "james_mcandrew@partner.nps.gov"
+  }, {
+    "name": "Nate Irwin",
+    "email": "nate_irwin@nps.gov"
+  }],
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jimmyrocks/node-slack-web-api"
+  },
+  "dependencies": {
+    "bluebird": "2.9.24",
+    "request": "2.54.0"
+  }
+}
