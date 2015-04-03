@@ -6,7 +6,9 @@ Based on this [documentation](https://api.slack.com/slackbot) from slack.
 Usage:
 ------
 You can require this in your package.json with the following line
-`"node-slack-web-api": ""git+https://github.com/jimmyrocks/node-slack-web-api/#master"`
+```
+"node-slack-web-api": ""git+https://github.com/jimmyrocks/node-slack-web-api/#master"
+```
 
 You will need to make a config similar to what's in `example.config.json` and pass it as a JSON object when creating the SlackApi.
 If you want, you can also put a `config.json` file in the root path, and it'll pick that up if no other config is specified.
