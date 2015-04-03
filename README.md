@@ -7,7 +7,7 @@ Usage:
 ------
 You can require this in your package.json with the following line
 ```
-"node-slack-web-api": ""git+https://github.com/jimmyrocks/node-slack-web-api/#master"
+"node-slack-web-api": "git+https://github.com/jimmyrocks/node-slack-web-api/#master"
 ```
 
 You will need to make a config similar to what's in `example.config.json` and pass it as a JSON object when creating the SlackApi.
