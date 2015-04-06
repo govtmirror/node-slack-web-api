@@ -1,5 +1,5 @@
 {
-  "name": "node-slack-web-pi",
+  "name": "node-slack-web-api",
   "version": "0.0.1",
   "description": "A simple way of sending messages to slack",
   "keywords": [
